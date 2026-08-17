@@ -790,7 +790,7 @@ Cybersecurity Learner | SOC Analyst Path | Splunk | Threat Hunting | Security Op
 
 ---
 
-LinkedIn:[]
+LinkedIn:[https://www.linkedin.com/feed/update/urn:li:activity:7495098042631667712/]
 
 X: [https://x.com/charisma1385/status/2089317466124038157]
 
